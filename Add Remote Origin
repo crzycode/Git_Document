@@ -1,0 +1,1 @@
+git remote add localgit git@192.168.0.7:/home/git/new_repo/image_optimizer.git
